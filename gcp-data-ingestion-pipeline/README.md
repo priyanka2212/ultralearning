@@ -1,4 +1,5 @@
 ### GCP Services and Engineering Process Implemented
+<img src="https://github.com/priyanka2212/ultralearning/blob/main/gcp-data-ingestion-pipeline/GCP%20Data%20Engineering%20Architecture%20Diagram.png" alt="GCP Data Engineering Architecture Diagram" width="750" height="600" />
 
 #### Services
 
